@@ -10,9 +10,9 @@
 
 ## 🎓 **AZ-400: Microsoft DevOps Engineer Expert**
 
-**Course Duration:** 2 Months (Weekdays | 1–2 Hours/Day)
-**Mode:** Online (Live + LMS Access)
-**Instructor:** Atul Kamble, Founder & CEO, Cloudnautic
+* **Course Duration:** 2 Months (Weekdays | 1–2 Hours/Day)
+* **Mode:** Online (Live + LMS Access)
+* **Instructor:** Atul Kamble, Founder & CEO, Cloudnautic
 
 ---
 
